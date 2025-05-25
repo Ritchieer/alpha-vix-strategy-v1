@@ -18,9 +18,13 @@ This strategy is based on the volatility regime framework using the VIX index as
 
 This real-world entry aligns with the model’s logic of initiating positions when VIX is between 25–30, combined with technical confirmation.
 
-## Chart Example
+## Chart Examples
 
-![NVDA Buy Signal](images/nvda_simulated_chart.png)
+**VIX Breakout on Entry Date (April 7, 2025)**  
+![VIX Chart](images/vix_20250407.jpg)
+
+**NVDA Breakout Confirmation (April 7, 2025)**  
+![NVDA Chart](images/nvda_20250407.jpg)
 
 ## Risk Management
 
